@@ -1,7 +1,7 @@
-
-
 # User Journey Flow for a Vehicle Rental Service Platform
+![IMG_20240606_141947](https://github.com/nandishns/LLD/assets/92267208/7ffa910b-e06b-4b53-b220-3a9e314c8fe7)
 
+# Database Schema
 # Users
 - user_id PK
 - email
