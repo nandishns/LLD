@@ -1,5 +1,7 @@
 # Online Course Platform
+![IMG_20240606_141543](https://github.com/nandishns/LLD/assets/92267208/b9ab19e7-7e63-4536-ac9c-1dba8a1fd985)
 
+# Database Schema
 # Users
 - user_id PK
 - email
