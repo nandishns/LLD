@@ -1,3 +1,4 @@
+![IMG_20240606_141601](https://github.com/nandishns/LLD/assets/92267208/09ca7a72-a5b7-45d0-a89c-9a59d478e174)
 # Whatsapp Schema
 
 # Users
