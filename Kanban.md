@@ -1,5 +1,5 @@
 # User Journey Flow for a Kanban Board Platform
-
+![IMG_20240606_141527](https://github.com/nandishns/LLD/assets/92267208/27af8637-a644-41e9-a050-c2b6cb3d6897)
 # Database Schema
 
 # Users
